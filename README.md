@@ -1,3 +1,5 @@
+Deprecated
+
 # DownloadMp3
 For http://music.fooor.cn/
 
