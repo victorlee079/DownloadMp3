@@ -1,6 +1,4 @@
-Deprecated
-
-# DownloadMp3
+# DownloadMp3 (Deprecated)
 For http://music.fooor.cn/
 
 Example Usage:
